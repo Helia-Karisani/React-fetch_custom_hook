@@ -4,14 +4,14 @@
 
 This project demonstrates how to create and use a **custom React hook** (`useFetch`) to fetch data from an API. It uses functional components, modular structure, and clean UI design.
 
-## 🔧 Features
+## Features
 
-- ✅ Custom `useFetch` hook
-- 📦 API data fetching
-- 🧩 Modular components
-- 💡 Clear separation of concerns
+- Custom `useFetch` hook
+- API data fetching
+- Modular components
+- Clear separation of concerns
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 
@@ -30,7 +30,7 @@ src/
 
 ````
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -56,7 +56,7 @@ src/
    http://localhost:5173/
    ```
 
-## 🧠 How It Works
+## How It Works
 
 * `UseFetch.jsx`: defines a reusable hook to fetch and return data, loading state, and error state.
 * `FetchData.jsx`: uses the custom hook to display the fetched data.
