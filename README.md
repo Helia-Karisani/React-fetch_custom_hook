@@ -1,5 +1,4 @@
 
-```markdown
 # React Fetch Custom Hook
 
 This project demonstrates how to create and use a **custom React hook** (`useFetch`) to fetch data from an API. It uses functional components, modular structure, and clean UI design.
